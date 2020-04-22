@@ -1,0 +1,196 @@
+[
+  {
+    "NomeLogradouro": "Dois",
+    "Numero": "110",
+    "Cep": "82000-00",
+    "Bairro": "Bairro Novo",
+    "Cidade": "Curitiba",
+    "Estado": "PR",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId" : 1
+  },
+  {
+    "NomeLogradouro": "Principal",
+    "Numero": "50",
+    "Cep": "92000-00",
+    "Bairro": "Bela Vista",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "TipoLogradouro": "Avenida",
+    "EstacionamentoId": 2
+
+  },
+  {
+    "NomeLogradouro": "Brasil",
+    "Numero": "10",
+    "Cep": "13000-00",
+    "Bairro": "Boqueirão",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "PR",
+    "TipoLogradouro": "Alameda",
+    "EstacionamentoId": 3
+
+  },
+  {
+    "NomeLogradouro": "Romeiros",
+    "Numero": "1",
+    "Cep": "14000-00",
+    "Bairro": "Cajuru",
+    "Cidade": "Curitiba",
+    "Estado": "PR",
+    "TipoLogradouro": "Estada",
+    "EstacionamentoId": 4
+
+  },
+  {
+    "NomeLogradouro": "São Pedro",
+    "Numero": "13",
+    "Cep": "15000-00",
+    "Bairro": "CIC",
+    "Cidade": "Curitiba",
+    "Estado": "PR",
+    "TipoLogradouro": "Chacára",
+    "EstacionamentoId": 5
+
+  },
+  {
+    "NomeLogradouro": "Quatorze",
+    "Numero": "130",
+    "Cep": "12000-00",
+    "Bairro": "Portão",
+    "Cidade": "Cidade",
+    "Estado": "PR",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 6
+
+  },
+  {
+    "NomeLogradouro": "Guarulhos",
+    "Numero": "1467",
+    "Cep": "10000-00",
+    "Bairro": "Jardins",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 7
+
+  },
+  {
+    "NomeLogradouro": "Santo Antonio",
+    "Numero": "1320",
+    "Cep": "80000-00",
+    "Bairro": "Itaim Bibi",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 8
+
+  },
+  {
+    "NomeLogradouro": "Quinze de Novembro",
+    "Numero": "80",
+    "Cep": "15000-00",
+    "Bairro": "Ipanema",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Estrada",
+    "EstacionamentoId": 9
+
+  },
+  {
+    "NomeLogradouro": "Bela Vista",
+    "Numero": "90",
+    "Cep": "18000-00",
+    "Bairro": "Alto de Pinheiros",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Estrada",
+    "EstacionamentoId": 10
+
+  },
+  {
+    "NomeLogradouro": "Castro Alves",
+    "Numero": "91",
+    "Cep": "11000-00",
+    "Bairro": "Aricanduva",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Avenida",
+    "EstacionamentoId": 11
+
+  },
+  {
+    "NomeLogradouro": "São Jorge",
+    "Numero": "103",
+    "Cep": "75000-00",
+    "Bairro": "Artum Alvim",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Avenida",
+    "EstacionamentoId": 12
+
+  },
+  {
+    "NomeLogradouro": "Da Paz",
+    "Numero": "104",
+    "Cep": "86000-00",
+    "Bairro": "Centro",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Alameda",
+    "EstacionamentoId": 13
+
+  },
+  {
+    "NomeLogradouro": "Santo Dumont",
+    "Numero": "105",
+    "Cep": "25000-00",
+    "Bairro": "Catumbi",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 14
+
+  },
+  {
+    "NomeLogradouro": "chácara",
+    "Numero": "10",
+    "Cep": "18900-00",
+    "Bairro": "Estácio",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 15
+  },
+  {
+    "NomeLogradouro": "Mato Grosso",
+    "Numero": "15",
+    "Cep": "19900-00",
+    "Bairro": "Cajuru",
+    "Cidade": "Curitiba",
+    "Estado": "PR",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 16
+  },
+  {
+    "NomeLogradouro": "Afonso Pena",
+    "Numero": "14",
+    "Cep": "15000-00",
+    "Bairro": "Benfica",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Rua",
+    "EstacionamentoId": 17
+  },
+  {
+    "NomeLogradouro": "Cinco",
+    "Numero": "16",
+    "Cep": "14700-00",
+    "Bairro": "Lagoa",
+    "Cidade": "Rio de Janeiro",
+    "Estado": "RJ",
+    "TipoLogradouro": "Avenida",
+    "EstacionamentoId": 18
+
+  }
+]

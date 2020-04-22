@@ -1,0 +1,146 @@
+[
+  {
+    "NomeEstacionamento": "Global Parking",
+    "Descricao": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PrecoHora": 200,
+    "Avaliacao": 4.1,
+    "NumeroVagas": 10,
+    "NumeroVagasDisponiveis": 1
+  },
+  {
+    "NomeEstacionamento": "Parking Studio ",
+    "Descricao": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "PrecoHora": 150,
+    "Avaliacao": 3,
+    "NumeroVagas": 50,
+    "NumeroVagasDisponiveis": 7
+  },
+  {
+    "NomeEstacionamento": "Team Parking",
+    "Descricao": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "PrecoHora": 180,
+    "Avaliacao": 2,
+    "NumeroVagas": 100,
+    "NumeroVagasDisponiveis": 8
+  },
+  {
+    "NomeEstacionamento": "Parking Home",
+    "Descricao": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "PrecoHora": 300,
+    "Avaliacao": 1,
+    "NumeroVagas": 200,
+    "NumeroVagasDisponiveis": 9
+  },
+  {
+    "NomeEstacionamento": "Fun Parking",
+    "Descricao": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PrecoHora": 250,
+    "Avaliacao": 1,
+    "NumeroVagas": 350,
+    "NumeroVagasDisponiveis": 5
+  },
+  {
+    "NomeEstacionamento": "New Parking",
+    "Descricao": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "PrecoHora": 120,
+    "Avaliacao": 2,
+    "NumeroVagas": 10,
+    "NumeroVagasDisponiveis": 1
+  },
+  {
+    "NomeEstacionamento": "Parking Love ",
+    "Descricao": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PrecoHora": 10,
+    "Avaliacao": 2,
+    "NumeroVagas": 15,
+    "NumeroVagasDisponiveis": 2
+  },
+  {
+    "NomeEstacionamento": "Parking Best ",
+    "Descricao": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "PrecoHora": 8,
+    "Avaliacao": 3,
+    "NumeroVagas": 30,
+    "NumeroVagasDisponiveis": 3
+  },
+  {
+    "NomeEstacionamento": "Gold Parking",
+    "Descricao": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PrecoHora": 15,
+    "Avaliacao": 3.1,
+    "NumeroVagas": 10,
+    "NumeroVagasDisponiveis": 35
+  },
+  {
+    "NomeEstacionamento": "Parking Super",
+    "Descricao": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "PrecoHora": 18,
+    "Avaliacao": 4.2,
+    "NumeroVagas": 1,
+    "NumeroVagasDisponiveis": 10
+  },
+  {
+    "NomeEstacionamento": "Pro Parking",
+    "Descricao": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "PrecoHora": 15,
+    "Avaliacao": 4.1,
+    "NumeroVagas": 2,
+    "NumeroVagasDisponiveis": 10
+  },
+  {
+    "NomeEstacionamento": "Net Parking",
+    "Descricao": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "PrecoHora": 16,
+    "Avaliacao": 3.5,
+    "NumeroVagas": 5,
+    "NumeroVagasDisponiveis": 10
+  },
+  {
+    "NomeEstacionamento": "Parking Smart",
+    "Descricao": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "PrecoHora": 14,
+    "Avaliacao": 2,
+    "NumeroVagas": 6,
+    "NumeroVagasDisponiveis": 15
+  },
+  {
+    "NomeEstacionamento": "Parking All",
+    "Descricao": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "PrecoHora": 250,
+    "Avaliacao": 1,
+    "NumeroVagas": 7,
+    "NumeroVagasDisponiveis": 58
+  },
+  {
+    "NomeEstacionamento": "Tech Parking",
+    "Descricao": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PrecoHora": 189.99,
+    "Avaliacao": 5,
+    "NumeroVagas": 8,
+    "NumeroVagasDisponiveis": 65
+  },
+  {
+    "NomeEstacionamento": "Digital Parking",
+    "Descricao": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "PrecoHora": 199.99,
+    "Avaliacao": 2,
+    "NumeroVagas": 90,
+    "NumeroVagasDisponiveis": 10
+  },
+  {
+    "NomeEstacionamento": "Happy Parking",
+    "Descricao": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "PrecoHora": 150,
+    "Avaliacao": 2,
+    "NumeroVagas": 80,
+    "NumeroVagasDisponiveis": 45
+  },
+  {
+    "NomeEstacionamento": "Hot Parking",
+    "Descricao": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "PrecoHora": 180,
+    "Avaliacao": 5,
+    "NumeroVagas": 70,
+    "NumeroVagasDisponiveis": 10
+  }
+]
